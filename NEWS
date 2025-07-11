@@ -1,8 +1,9 @@
-pussh 1.5 - UNRELEASED
+pussh 1.5 - 2025-07-11
 
     * Get rid of external commands date, dirname & basename with bashisms
       (thanks @stephanebill)
     * Add -4/-6 SSH options (thanks @fxlb)
+    * Add -c/--color (suggested by @Lifailon)
 
 pussh 1.4 - 2024-08-19
 

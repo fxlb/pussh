@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # pussh - run commands thru ssh on hundreds of server
-# Copyright (C) 2011-2024 Bearstech - http://bearstech.com
+# Copyright (C) 2011-2025 Bearstech - http://bearstech.com
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -19,7 +19,7 @@
 set -e
 
 THIS_NAME=pussh
-THIS_VERSION=1.4
+THIS_VERSION=1.5
 
 
 # Dependencies:
